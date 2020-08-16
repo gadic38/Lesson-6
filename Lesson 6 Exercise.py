@@ -1,0 +1,1 @@
+print("hello Lesson 6 Exercise")
